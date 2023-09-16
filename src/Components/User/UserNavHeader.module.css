@@ -52,6 +52,16 @@
   cursor: pointer;
 }
 
+.mobileButton:hover,
+.mobileButton:focus,
+.mobileButtonActive {
+  outline: none;
+  background: white;
+  box-shadow: 0 0 0 3px #fea;
+  border-color: #fb1;
+  color: #fb1;
+}
+
 .mobileButton::after {
   content: "";
   display: block;
@@ -61,16 +71,6 @@
   background: currentColor;
   box-shadow: 0 6px currentColor, 0 -6px currentColor;
   transition: 0.2s;
-}
-
-.mobileButton:hover,
-.mobileButton:focus,
-.mobileButtonActive {
-  outline: none;
-  background: white;
-  box-shadow: 0 0 0 3px #fea;
-  border-color: #fb1;
-  color: #fb1;
 }
 
 .mobileButtonActive::after {
