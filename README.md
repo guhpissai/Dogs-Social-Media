@@ -1,6 +1,6 @@
 # Dogs Social Network
 
-**Bem-vindo ao Dogs Social Network - a rede social dedicada aos nossos amigos de quatro patas!**
+**:dog: Bem-vindo ao Dogs Social Network - a rede social dedicada aos nossos amigos de quatro patas!**
 
 ## Visão Geral
 
