@@ -1,10 +1,10 @@
-# Dogs Social Media
+# Dogs Social Network
 
-**Bem-vindo ao Dogs Social Media - a rede social dedicada aos nossos amigos de quatro patas!**
+**:dog: Bem-vindo ao Dogs Social Network - a rede social dedicada aos nossos amigos de quatro patas!**
 
 ## Visão Geral
 
-Dogs Social Media é uma aplicação web desenvolvida em ReactJS, projetada para entusiastas de cães compartilharem fotos e momentos especiais de seus animais de estimação. Com recursos de login seguro, criação de conta e a capacidade de compartilhar imagens, Dogs Social Media é a plataforma perfeita para mostrar o seu amor pelos cães.
+Dogs Social Network é uma aplicação web desenvolvida em ReactJS, projetada para entusiastas de cães compartilharem fotos e momentos especiais de seus animais de estimação. Com recursos de login seguro, criação de conta e a capacidade de compartilhar imagens, Dogs Social Media é a plataforma perfeita para mostrar o seu amor pelos cães.
 
 ## Recursos Principais
 
@@ -24,9 +24,9 @@ Dogs Social Media é uma aplicação web desenvolvida em ReactJS, projetada para
 
 Siga estas etapas para iniciar a aplicação em seu ambiente de desenvolvimento:
 
-1. Clone este repositório: `git clone https://github.com/seu-usuario/dogs-social-media.git`
+1. Clone este repositório: `git clone https://github.com/seu-usuario/dogs-social-network.git`
 
-2. Navegue até o diretório do projeto: `cd dogs-social-media`
+2. Navegue até o diretório do projeto: `cd dogs-social-network`
 
 3. Instale as dependências: `npm install`
 
