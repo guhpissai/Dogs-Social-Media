@@ -1,10 +1,12 @@
 # Dogs Social Network
 
+# Bem-vindo à Dogs Social Network!
+
 **:dog: Bem-vindo ao Dogs Social Network - a rede social dedicada aos nossos amigos de quatro patas!**
 
 ## Visão Geral
 
-Dogs Social Network é uma aplicação web desenvolvida em ReactJS, projetada para entusiastas de cães compartilharem fotos e momentos especiais de seus animais de estimação. Com recursos de login seguro, criação de conta e a capacidade de compartilhar imagens, Dogs Social Media é a plataforma perfeita para mostrar o seu amor pelos cães.
+Dogs Social Network é uma aplicação web desenvolvida em ReactJS, projetada para entusiastas de cães compartilharem fotos e momentos especiais de seus animais de estimação. Com recursos de login seguro, criação de conta e a capacidade de compartilhar imagens, Dogs Social Media é a plataforma perfeita para mostrar o seu amor pelos cães. Visite a aplicação em [Dogs Social Network](https://dogs-social-network-five.vercel.app/).
 
 ## Recursos Principais
 
